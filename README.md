@@ -34,7 +34,7 @@ javascript:void%20function(){var%20e=jQuery(%22div.hist_verEvent%22),t=jQuery(%2
 
 **1. Click the bookmarklet link**
 
-**2. The Versions overview is now shown TiQ Versions Tabular - Opened**
+**2. The Versions overview is now shown**
 ![TiQ Versions Tabular - Opened](https://github.com/pmeyerdk/tiq-versions-tabular/blob/master/docs/tiq-versions-tabular-modal.png?raw=true)
 *(Click above screenshot :point_up_2: to see it in a bigger versions)*
 
